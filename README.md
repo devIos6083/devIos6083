@@ -29,7 +29,7 @@ const developer = {
         spoken: ["Korean (Native)", "Japanese (N3→N2)", "English"]
     },
     currentFocus: [
-        "Building KanjiMaster App 📱",
+        "Building InstagramClone App 📱",
         "Web Development with Next.js 🌐",
         "Job Hunting in Japan 💼",
         "JLPT N2 Preparation 📚"
@@ -40,7 +40,7 @@ const developer = {
 
 ## 💼 Current Status | 現在の状況
 
-🔭 **Working on:** KanjiMaster - Japanese Kanji Learning App  
+🔭 **Working on:** InstagramClone App
 🌱 **Learning:** TypeScript, Prisma, Supabase, Next.js  
 👯 **Looking for:** Software Engineer positions in Japan  
 💬 **Ask me about:** Flutter, Python, AI, Japanese language learning  
