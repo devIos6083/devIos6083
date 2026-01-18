@@ -96,6 +96,7 @@ const developer = {
 ---
 
 
+
 ## 📝 Latest Blog Posts | 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
@@ -110,6 +111,7 @@ const developer = {
 ---
 
 ## 🌱 Learning Journey | 学習の旅
+```mermaid
 graph LR
     A[Industrial Engineering] --> B[AI Convergence]
     B --> C[Flutter Development]
@@ -119,6 +121,7 @@ graph LR
     F --> E
 
 ---
+```
 
 
 <div align="center">
