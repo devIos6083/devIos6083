@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+%7C+Web+%7C+AI+Engineer;%E6%97%A5%E6%9C%AC%E3%81%A7%E5%83%8D%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99+%F0%9F%87%AF%F0%9F%87%B5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://velog.io/@devios6083)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://velog.io/@corsair/posts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khkyu9799@ajou.ac.kr)
 
 </div>
 
@@ -14,6 +13,7 @@
 
 ## 🙋‍♂️ About Me | 自己紹介
 
+```typescript
 const developer = {
     name: "Kang",
     location: "🇯🇵 Niigata, Japan | 新潟、日本",
@@ -36,7 +36,7 @@ const developer = {
     ],
     hobbies: ["Coding", "Skiing ⛷️", "Language Learning", "Tech Blogging"]
 };
-
+```
 
 ## 💼 Current Status | 現在の状況
 
