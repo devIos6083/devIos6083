@@ -81,21 +81,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats | GitHubの統計
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devIos6083&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devIos6083&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devIos6083&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
-
----
-
-
 
 ## 📝 Latest Blog Posts | 最新のブログ記事
 
@@ -119,9 +104,9 @@ graph LR
     D --> E[Full Stack Engineer]
     B --> F[Python AI Projects]
     F --> E
+```
 
 ---
-```
 
 
 <div align="center">
